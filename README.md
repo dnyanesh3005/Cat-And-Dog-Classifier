@@ -32,7 +32,7 @@ This project is suitable for **beginners to intermediate learners** in Deep Lear
 
 Cat-And-Dog-Classifier/
 │── app.py                 # Gradio web app
-│── model.h5               # Trained CNN model
+│── catDog.h5               # Trained CNN model
 │── requirements.txt       # Required dependencies
 │── README.md              # Project documentation
 
