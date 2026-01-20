@@ -95,8 +95,8 @@ After running the app, open the generated **local or public URL** and upload an 
 
 The project can be deployed publicly using:
 
-* **Hugging Face Spaces (Gradio)** ✅ *(Recommended)*
-* Local deployment with `interface.launch(share=True)`
+Hugging Face Spaces (Gradio)
+
 
 ---
 
@@ -122,7 +122,7 @@ The project can be deployed publicly using:
 * Improve accuracy with data augmentation
 * Add confidence bar visualization
 * Deploy using Streamlit
-* Convert model to TensorFlow Lite (TFLite)
+* Convert model to TensorFlow Lite 
 
 ---
 
